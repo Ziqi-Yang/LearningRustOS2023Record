@@ -9,3 +9,11 @@ Join the project at evening.
 -----
 *4.5* \\
 1. Begin record study progress in this repository.
+-----
+*4.6* \\
+1. rust by example section 1 - 3
+
+-----
+*4.7* \\
+1. rust by example section 4 - 9
+2. rustlings -> 30
