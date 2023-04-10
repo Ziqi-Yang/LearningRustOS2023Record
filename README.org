@@ -27,3 +27,8 @@ Join the project at evening.
 *4.9* \\
 1. rust by example section 16 - 18
 2. rustlings 47 - 60
+
+-----
+*4.10* \\
+1. rust by example section 19
+2. rustlings 60 - 72
