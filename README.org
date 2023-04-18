@@ -2,7 +2,7 @@
 
 [[https://github.com/LearningOS/rust-based-os-comp2023]]
 
------
+* First Stage
 *4.4* \\
 Join the project at evening.
 
@@ -40,3 +40,8 @@ Join the project at evening.
 ------
 *4.12* \\
 1. rustlings 74 - 94 finished!!!
+
+* Second Stage
+*4.17* \\
+1. reading rcore book chapter 1
+2. watch the live stream about RISC-V documentation between 8.00pm - 9.00pm
