@@ -45,3 +45,18 @@ Join the project at evening.
 *4.17* \\
 1. reading rcore book chapter 1
 2. watch the live stream about RISC-V documentation between 8.00pm - 9.00pm
+
+-----
+*4.18* \\
+1. reading rcore book chapter 1
+2. prepare environment
+
+-----
+*4.19* \\
+
+-----
+*4.20* \\
+1. chapter 1 main contents finished
+2. exercise 1 finished
+3. review the record of the second class
+
